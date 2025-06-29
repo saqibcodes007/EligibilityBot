@@ -46,7 +46,9 @@ The bot follows a continuous loop with the following steps:
 
 ## Demo
 
-*(A brief screen recording or GIF showing the bot in action would be placed here. For example, showing a new row being added to the Google Sheet and then the bot automatically filling in the result columns a few moments later.)*
+Click the image below to watch a full video demonstration of the bot in action.
+
+[![Bot Demo Video](https://raw.githubusercontent.com/your-username/your-repo-name/main/path/to/your/thumbnail.png)](https://drive.google.com/file/d/1HIW8NH1vpYvuf_N2qPPW-GvoENqRtiNC/view?usp=sharing)
 
 ## Tech Stack
 
