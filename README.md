@@ -48,7 +48,7 @@ The bot follows a continuous loop with the following steps:
 
 Click the image below to watch a full video demonstration of the bot in action.
 
-[![Bot Demo Video](https://raw.githubusercontent.com/your-username/your-repo-name/main/path/to/your/thumbnail.png)](https://drive.google.com/file/d/1HIW8NH1vpYvuf_N2qPPW-GvoENqRtiNC/view?usp=sharing)
+[![Bot Demo Video](https://github.com/saqibcodes007/EligibilityBot/blob/169b1735fdb48d3c8d88056737be7f707ad52932/demo_thumbnail.png)](https://drive.google.com/file/d/1HIW8NH1vpYvuf_N2qPPW-GvoENqRtiNC/view?usp=sharing)
 
 ## Tech Stack
 
